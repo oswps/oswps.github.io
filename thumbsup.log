@@ -872,3 +872,71 @@
 2024-02-11T14:11:06.359Z thumbsup:error     at C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\async\dist\async.js:3681:17
 2024-02-11T14:11:06.359Z thumbsup:error     at C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\async\dist\async.js:3683:19
 2024-02-11T14:11:06.359Z thumbsup:error     at wrapper (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\async\dist\async.js:273:20)
+2024-02-11T14:51:27.056Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T14:51:27.057Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T14:51:27.057Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T14:51:27.057Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T14:51:27.186Z thumbsup:error Error: Invalid theme structure in C:\Users\Jahuf\Documents\theme-cards-master\theme
+2024-02-11T14:51:27.186Z thumbsup:error     at Theme.validateStructure (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\src\website\theme.js:56:13)
+2024-02-11T14:51:27.186Z thumbsup:error     at Theme.prepare (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\src\website\theme.js:24:10)
+2024-02-11T14:51:27.186Z thumbsup:error     at C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\src\website\website.js:36:19
+2024-02-11T14:51:27.186Z thumbsup:error     at C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\async\dist\async.js:3676:28
+2024-02-11T14:51:27.186Z thumbsup:error     at replenish (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\async\dist\async.js:448:21)
+2024-02-11T14:51:27.186Z thumbsup:error     at iterateeCallback (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\async\dist\async.js:432:21)
+2024-02-11T14:51:27.186Z thumbsup:error     at C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\async\dist\async.js:329:20
+2024-02-11T14:51:27.186Z thumbsup:error     at C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\async\dist\async.js:3681:17
+2024-02-11T14:51:27.186Z thumbsup:error     at C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\async\dist\async.js:3683:19
+2024-02-11T14:51:27.186Z thumbsup:error     at wrapper (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\async\dist\async.js:273:20)
+2024-02-11T14:52:32.682Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T14:52:32.683Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T14:52:32.683Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T14:52:32.683Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T14:52:32.838Z thumbsup:error Error: Invalid theme structure in C:\Users\Jahuf\Documents\theme-cards-master\theme
+2024-02-11T14:52:32.838Z thumbsup:error     at Theme.validateStructure (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\src\website\theme.js:56:13)
+2024-02-11T14:52:32.838Z thumbsup:error     at Theme.prepare (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\src\website\theme.js:24:10)
+2024-02-11T14:52:32.838Z thumbsup:error     at C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\src\website\website.js:36:19
+2024-02-11T14:52:32.838Z thumbsup:error     at C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\async\dist\async.js:3676:28
+2024-02-11T14:52:32.838Z thumbsup:error     at replenish (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\async\dist\async.js:448:21)
+2024-02-11T14:52:32.838Z thumbsup:error     at iterateeCallback (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\async\dist\async.js:432:21)
+2024-02-11T14:52:32.838Z thumbsup:error     at C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\async\dist\async.js:329:20
+2024-02-11T14:52:32.838Z thumbsup:error     at C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\async\dist\async.js:3681:17
+2024-02-11T14:52:32.838Z thumbsup:error     at C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\async\dist\async.js:3683:19
+2024-02-11T14:52:32.838Z thumbsup:error     at wrapper (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\async\dist\async.js:273:20)
+2024-02-11T14:52:56.523Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T14:52:56.524Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T14:52:56.524Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T14:52:56.524Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T14:52:56.672Z thumbsup:error Error: Invalid theme structure in C:\Users\Jahuf\Documents\theme-cards-master\theme
+2024-02-11T14:52:56.672Z thumbsup:error     at Theme.validateStructure (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\src\website\theme.js:56:13)
+2024-02-11T14:52:56.672Z thumbsup:error     at Theme.prepare (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\src\website\theme.js:24:10)
+2024-02-11T14:52:56.672Z thumbsup:error     at C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\src\website\website.js:36:19
+2024-02-11T14:52:56.672Z thumbsup:error     at C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\async\dist\async.js:3676:28
+2024-02-11T14:52:56.672Z thumbsup:error     at replenish (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\async\dist\async.js:448:21)
+2024-02-11T14:52:56.672Z thumbsup:error     at iterateeCallback (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\async\dist\async.js:432:21)
+2024-02-11T14:52:56.672Z thumbsup:error     at C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\async\dist\async.js:329:20
+2024-02-11T14:52:56.672Z thumbsup:error     at C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\async\dist\async.js:3681:17
+2024-02-11T14:52:56.672Z thumbsup:error     at C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\async\dist\async.js:3683:19
+2024-02-11T14:52:56.672Z thumbsup:error     at wrapper (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\async\dist\async.js:273:20)
+2024-02-11T14:53:33.425Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T14:53:33.426Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T14:53:33.426Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T14:53:33.426Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T14:53:33.561Z thumbsup:error Error: Invalid theme structure in C:\Users\Jahuf\Documents\theme-cards-master\theme
+2024-02-11T14:53:33.561Z thumbsup:error     at Theme.validateStructure (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\src\website\theme.js:56:13)
+2024-02-11T14:53:33.561Z thumbsup:error     at Theme.prepare (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\src\website\theme.js:24:10)
+2024-02-11T14:53:33.561Z thumbsup:error     at C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\src\website\website.js:36:19
+2024-02-11T14:53:33.561Z thumbsup:error     at C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\async\dist\async.js:3676:28
+2024-02-11T14:53:33.561Z thumbsup:error     at replenish (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\async\dist\async.js:448:21)
+2024-02-11T14:53:33.561Z thumbsup:error     at iterateeCallback (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\async\dist\async.js:432:21)
+2024-02-11T14:53:33.561Z thumbsup:error     at C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\async\dist\async.js:329:20
+2024-02-11T14:53:33.561Z thumbsup:error     at C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\async\dist\async.js:3681:17
+2024-02-11T14:53:33.561Z thumbsup:error     at C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\async\dist\async.js:3683:19
+2024-02-11T14:53:33.561Z thumbsup:error     at wrapper (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\async\dist\async.js:273:20)
+2024-02-11T14:54:54.250Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T14:54:54.251Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T14:54:54.251Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T14:54:54.251Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T14:55:12.881Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T14:55:12.882Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T14:55:12.882Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T14:55:12.882Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
