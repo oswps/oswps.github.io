@@ -1,172 +1,835 @@
-2024-02-10T22:08:10.606Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
-2024-02-10T22:08:10.607Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
-2024-02-10T22:08:10.607Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
-2024-02-10T22:08:10.607Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
-2024-02-10T22:11:35.999Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
-2024-02-10T22:11:35.999Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
-2024-02-10T22:11:35.999Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
-2024-02-10T22:11:35.999Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
-2024-02-10T22:13:53.270Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
-2024-02-10T22:13:53.271Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
-2024-02-10T22:13:53.271Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
-2024-02-10T22:13:53.271Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
-2024-02-10T23:06:49.740Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
-2024-02-10T23:06:49.741Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
-2024-02-10T23:06:49.741Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
-2024-02-10T23:06:49.741Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
-2024-02-10T23:06:49.849Z thumbsup:error Error: Parse error on line 14:
-2024-02-10T23:06:49.849Z thumbsup:error ...each}}{{#endwith}}
-2024-02-10T23:06:49.849Z thumbsup:error ---------------------^
-2024-02-10T23:06:49.849Z thumbsup:error Expecting 'COMMENT', 'CONTENT', 'OPEN_RAW_BLOCK', 'OPEN_BLOCK', 'OPEN_INVERSE', 'OPEN_INVERSE_CHAIN', 'INVERSE', 'OPEN_ENDBLOCK', 'OPEN', 'OPEN_UNESCAPED', 'OPEN_PARTIAL', 'OPEN_PARTIAL_BLOCK', got 'EOF'
-2024-02-10T23:06:49.849Z thumbsup:error     at Parser.parseError (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\handlebars\dist\cjs\handlebars\compiler\parser.js:267:19)
-2024-02-10T23:06:49.849Z thumbsup:error     at Parser.parse (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\handlebars\dist\cjs\handlebars\compiler\parser.js:336:30)
-2024-02-10T23:06:49.849Z thumbsup:error     at parseWithoutProcessing (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\handlebars\dist\cjs\handlebars\compiler\base.js:46:33)
-2024-02-10T23:06:49.849Z thumbsup:error     at HandlebarsEnvironment.parse (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\handlebars\dist\cjs\handlebars\compiler\base.js:52:13)
-2024-02-10T23:06:49.849Z thumbsup:error     at compileInput (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\handlebars\dist\cjs\handlebars\compiler\compiler.js:508:19)
-2024-02-10T23:06:49.849Z thumbsup:error     at Theme.ret [as template] (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\handlebars\dist\cjs\handlebars\compiler\compiler.js:517:18)
-2024-02-10T23:06:49.849Z thumbsup:error     at Theme.render (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\src\website\theme.js:64:27)
-2024-02-10T23:06:49.849Z thumbsup:error     at C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\src\website\website.js:30:26
-2024-02-10T23:06:49.849Z thumbsup:error     at C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\async\dist\async.js:3676:28
-2024-02-10T23:06:49.849Z thumbsup:error     at replenish (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\async\dist\async.js:448:21)
-2024-02-10T23:09:26.231Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
-2024-02-10T23:09:26.232Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
-2024-02-10T23:09:26.232Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
-2024-02-10T23:09:26.232Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
-2024-02-10T23:09:26.341Z thumbsup:error Error: Parse error on line 14:
-2024-02-10T23:09:26.341Z thumbsup:error ...each}}{{#endwith}}
-2024-02-10T23:09:26.341Z thumbsup:error ---------------------^
-2024-02-10T23:09:26.341Z thumbsup:error Expecting 'COMMENT', 'CONTENT', 'OPEN_RAW_BLOCK', 'OPEN_BLOCK', 'OPEN_INVERSE', 'OPEN_INVERSE_CHAIN', 'INVERSE', 'OPEN_ENDBLOCK', 'OPEN', 'OPEN_UNESCAPED', 'OPEN_PARTIAL', 'OPEN_PARTIAL_BLOCK', got 'EOF'
-2024-02-10T23:09:26.341Z thumbsup:error     at Parser.parseError (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\handlebars\dist\cjs\handlebars\compiler\parser.js:267:19)
-2024-02-10T23:09:26.341Z thumbsup:error     at Parser.parse (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\handlebars\dist\cjs\handlebars\compiler\parser.js:336:30)
-2024-02-10T23:09:26.341Z thumbsup:error     at parseWithoutProcessing (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\handlebars\dist\cjs\handlebars\compiler\base.js:46:33)
-2024-02-10T23:09:26.341Z thumbsup:error     at HandlebarsEnvironment.parse (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\handlebars\dist\cjs\handlebars\compiler\base.js:52:13)
-2024-02-10T23:09:26.341Z thumbsup:error     at compileInput (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\handlebars\dist\cjs\handlebars\compiler\compiler.js:508:19)
-2024-02-10T23:09:26.341Z thumbsup:error     at Theme.ret [as template] (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\handlebars\dist\cjs\handlebars\compiler\compiler.js:517:18)
-2024-02-10T23:09:26.341Z thumbsup:error     at Theme.render (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\src\website\theme.js:64:27)
-2024-02-10T23:09:26.341Z thumbsup:error     at C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\src\website\website.js:30:26
-2024-02-10T23:09:26.341Z thumbsup:error     at C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\async\dist\async.js:3676:28
-2024-02-10T23:09:26.341Z thumbsup:error     at replenish (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\async\dist\async.js:448:21)
-2024-02-10T23:09:49.032Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
-2024-02-10T23:09:49.032Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
-2024-02-10T23:09:49.032Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
-2024-02-10T23:09:49.032Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
-2024-02-10T23:09:49.140Z thumbsup:error Error: Parse error on line 14:
-2024-02-10T23:09:49.140Z thumbsup:error ...each}}{{#endwith}}
-2024-02-10T23:09:49.140Z thumbsup:error ---------------------^
-2024-02-10T23:09:49.140Z thumbsup:error Expecting 'COMMENT', 'CONTENT', 'OPEN_RAW_BLOCK', 'OPEN_BLOCK', 'OPEN_INVERSE', 'OPEN_INVERSE_CHAIN', 'INVERSE', 'OPEN_ENDBLOCK', 'OPEN', 'OPEN_UNESCAPED', 'OPEN_PARTIAL', 'OPEN_PARTIAL_BLOCK', got 'EOF'
-2024-02-10T23:09:49.140Z thumbsup:error     at Parser.parseError (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\handlebars\dist\cjs\handlebars\compiler\parser.js:267:19)
-2024-02-10T23:09:49.140Z thumbsup:error     at Parser.parse (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\handlebars\dist\cjs\handlebars\compiler\parser.js:336:30)
-2024-02-10T23:09:49.140Z thumbsup:error     at parseWithoutProcessing (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\handlebars\dist\cjs\handlebars\compiler\base.js:46:33)
-2024-02-10T23:09:49.140Z thumbsup:error     at HandlebarsEnvironment.parse (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\handlebars\dist\cjs\handlebars\compiler\base.js:52:13)
-2024-02-10T23:09:49.140Z thumbsup:error     at compileInput (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\handlebars\dist\cjs\handlebars\compiler\compiler.js:508:19)
-2024-02-10T23:09:49.140Z thumbsup:error     at Theme.ret [as template] (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\handlebars\dist\cjs\handlebars\compiler\compiler.js:517:18)
-2024-02-10T23:09:49.140Z thumbsup:error     at Theme.render (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\src\website\theme.js:64:27)
-2024-02-10T23:09:49.140Z thumbsup:error     at C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\src\website\website.js:30:26
-2024-02-10T23:09:49.140Z thumbsup:error     at C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\async\dist\async.js:3676:28
-2024-02-10T23:09:49.140Z thumbsup:error     at replenish (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\async\dist\async.js:448:21)
-2024-02-10T23:09:55.918Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
-2024-02-10T23:09:55.918Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
-2024-02-10T23:09:55.918Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
-2024-02-10T23:09:55.918Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
-2024-02-10T23:09:56.026Z thumbsup:error Error: Parse error on line 14:
-2024-02-10T23:09:56.026Z thumbsup:error ...each}}{{#endwith}}
-2024-02-10T23:09:56.026Z thumbsup:error ---------------------^
-2024-02-10T23:09:56.026Z thumbsup:error Expecting 'COMMENT', 'CONTENT', 'OPEN_RAW_BLOCK', 'OPEN_BLOCK', 'OPEN_INVERSE', 'OPEN_INVERSE_CHAIN', 'INVERSE', 'OPEN_ENDBLOCK', 'OPEN', 'OPEN_UNESCAPED', 'OPEN_PARTIAL', 'OPEN_PARTIAL_BLOCK', got 'EOF'
-2024-02-10T23:09:56.026Z thumbsup:error     at Parser.parseError (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\handlebars\dist\cjs\handlebars\compiler\parser.js:267:19)
-2024-02-10T23:09:56.026Z thumbsup:error     at Parser.parse (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\handlebars\dist\cjs\handlebars\compiler\parser.js:336:30)
-2024-02-10T23:09:56.026Z thumbsup:error     at parseWithoutProcessing (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\handlebars\dist\cjs\handlebars\compiler\base.js:46:33)
-2024-02-10T23:09:56.026Z thumbsup:error     at HandlebarsEnvironment.parse (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\handlebars\dist\cjs\handlebars\compiler\base.js:52:13)
-2024-02-10T23:09:56.026Z thumbsup:error     at compileInput (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\handlebars\dist\cjs\handlebars\compiler\compiler.js:508:19)
-2024-02-10T23:09:56.026Z thumbsup:error     at Theme.ret [as template] (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\handlebars\dist\cjs\handlebars\compiler\compiler.js:517:18)
-2024-02-10T23:09:56.026Z thumbsup:error     at Theme.render (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\src\website\theme.js:64:27)
-2024-02-10T23:09:56.026Z thumbsup:error     at C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\src\website\website.js:30:26
-2024-02-10T23:09:56.026Z thumbsup:error     at C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\async\dist\async.js:3676:28
-2024-02-10T23:09:56.026Z thumbsup:error     at replenish (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\async\dist\async.js:448:21)
-2024-02-10T23:11:18.795Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
-2024-02-10T23:11:18.796Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
-2024-02-10T23:11:18.796Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
-2024-02-10T23:11:18.796Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
-2024-02-10T23:11:18.904Z thumbsup:error Error: Parse error on line 14:
-2024-02-10T23:11:18.904Z thumbsup:error ...each}}{{#endwith}}
-2024-02-10T23:11:18.904Z thumbsup:error ---------------------^
-2024-02-10T23:11:18.904Z thumbsup:error Expecting 'COMMENT', 'CONTENT', 'OPEN_RAW_BLOCK', 'OPEN_BLOCK', 'OPEN_INVERSE', 'OPEN_INVERSE_CHAIN', 'INVERSE', 'OPEN_ENDBLOCK', 'OPEN', 'OPEN_UNESCAPED', 'OPEN_PARTIAL', 'OPEN_PARTIAL_BLOCK', got 'EOF'
-2024-02-10T23:11:18.904Z thumbsup:error     at Parser.parseError (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\handlebars\dist\cjs\handlebars\compiler\parser.js:267:19)
-2024-02-10T23:11:18.904Z thumbsup:error     at Parser.parse (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\handlebars\dist\cjs\handlebars\compiler\parser.js:336:30)
-2024-02-10T23:11:18.904Z thumbsup:error     at parseWithoutProcessing (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\handlebars\dist\cjs\handlebars\compiler\base.js:46:33)
-2024-02-10T23:11:18.904Z thumbsup:error     at HandlebarsEnvironment.parse (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\handlebars\dist\cjs\handlebars\compiler\base.js:52:13)
-2024-02-10T23:11:18.904Z thumbsup:error     at compileInput (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\handlebars\dist\cjs\handlebars\compiler\compiler.js:508:19)
-2024-02-10T23:11:18.904Z thumbsup:error     at Theme.ret [as template] (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\handlebars\dist\cjs\handlebars\compiler\compiler.js:517:18)
-2024-02-10T23:11:18.904Z thumbsup:error     at Theme.render (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\src\website\theme.js:64:27)
-2024-02-10T23:11:18.904Z thumbsup:error     at C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\src\website\website.js:30:26
-2024-02-10T23:11:18.904Z thumbsup:error     at C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\async\dist\async.js:3676:28
-2024-02-10T23:11:18.904Z thumbsup:error     at replenish (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\async\dist\async.js:448:21)
-2024-02-10T23:11:39.887Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
-2024-02-10T23:11:39.888Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
-2024-02-10T23:11:39.888Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
-2024-02-10T23:11:39.888Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
-2024-02-10T23:11:39.999Z thumbsup:error Error: Parse error on line 14:
-2024-02-10T23:11:39.999Z thumbsup:error ...each}}{{#endwith}}
-2024-02-10T23:11:39.999Z thumbsup:error ---------------------^
-2024-02-10T23:11:39.999Z thumbsup:error Expecting 'COMMENT', 'CONTENT', 'OPEN_RAW_BLOCK', 'OPEN_BLOCK', 'OPEN_INVERSE', 'OPEN_INVERSE_CHAIN', 'INVERSE', 'OPEN_ENDBLOCK', 'OPEN', 'OPEN_UNESCAPED', 'OPEN_PARTIAL', 'OPEN_PARTIAL_BLOCK', got 'EOF'
-2024-02-10T23:11:39.999Z thumbsup:error     at Parser.parseError (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\handlebars\dist\cjs\handlebars\compiler\parser.js:267:19)
-2024-02-10T23:11:39.999Z thumbsup:error     at Parser.parse (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\handlebars\dist\cjs\handlebars\compiler\parser.js:336:30)
-2024-02-10T23:11:39.999Z thumbsup:error     at parseWithoutProcessing (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\handlebars\dist\cjs\handlebars\compiler\base.js:46:33)
-2024-02-10T23:11:39.999Z thumbsup:error     at HandlebarsEnvironment.parse (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\handlebars\dist\cjs\handlebars\compiler\base.js:52:13)
-2024-02-10T23:11:39.999Z thumbsup:error     at compileInput (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\handlebars\dist\cjs\handlebars\compiler\compiler.js:508:19)
-2024-02-10T23:11:39.999Z thumbsup:error     at Theme.ret [as template] (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\handlebars\dist\cjs\handlebars\compiler\compiler.js:517:18)
-2024-02-10T23:11:39.999Z thumbsup:error     at Theme.render (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\src\website\theme.js:64:27)
-2024-02-10T23:11:39.999Z thumbsup:error     at C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\src\website\website.js:30:26
-2024-02-10T23:11:39.999Z thumbsup:error     at C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\async\dist\async.js:3676:28
-2024-02-10T23:11:39.999Z thumbsup:error     at replenish (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\async\dist\async.js:448:21)
-2024-02-10T23:11:58.824Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
-2024-02-10T23:11:58.825Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
-2024-02-10T23:11:58.825Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
-2024-02-10T23:11:58.825Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
-2024-02-10T23:11:58.935Z thumbsup:error Error: Parse error on line 14:
-2024-02-10T23:11:58.935Z thumbsup:error ...each}}{{#endwith}}
-2024-02-10T23:11:58.935Z thumbsup:error ---------------------^
-2024-02-10T23:11:58.935Z thumbsup:error Expecting 'COMMENT', 'CONTENT', 'OPEN_RAW_BLOCK', 'OPEN_BLOCK', 'OPEN_INVERSE', 'OPEN_INVERSE_CHAIN', 'INVERSE', 'OPEN_ENDBLOCK', 'OPEN', 'OPEN_UNESCAPED', 'OPEN_PARTIAL', 'OPEN_PARTIAL_BLOCK', got 'EOF'
-2024-02-10T23:11:58.935Z thumbsup:error     at Parser.parseError (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\handlebars\dist\cjs\handlebars\compiler\parser.js:267:19)
-2024-02-10T23:11:58.935Z thumbsup:error     at Parser.parse (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\handlebars\dist\cjs\handlebars\compiler\parser.js:336:30)
-2024-02-10T23:11:58.935Z thumbsup:error     at parseWithoutProcessing (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\handlebars\dist\cjs\handlebars\compiler\base.js:46:33)
-2024-02-10T23:11:58.935Z thumbsup:error     at HandlebarsEnvironment.parse (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\handlebars\dist\cjs\handlebars\compiler\base.js:52:13)
-2024-02-10T23:11:58.935Z thumbsup:error     at compileInput (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\handlebars\dist\cjs\handlebars\compiler\compiler.js:508:19)
-2024-02-10T23:11:58.935Z thumbsup:error     at Theme.ret [as template] (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\handlebars\dist\cjs\handlebars\compiler\compiler.js:517:18)
-2024-02-10T23:11:58.935Z thumbsup:error     at Theme.render (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\src\website\theme.js:64:27)
-2024-02-10T23:11:58.935Z thumbsup:error     at C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\src\website\website.js:30:26
-2024-02-10T23:11:58.935Z thumbsup:error     at C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\async\dist\async.js:3676:28
-2024-02-10T23:11:58.935Z thumbsup:error     at replenish (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\async\dist\async.js:448:21)
-2024-02-10T23:12:40.730Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
-2024-02-10T23:12:40.730Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
-2024-02-10T23:12:40.730Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
-2024-02-10T23:12:40.730Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
-2024-02-10T23:13:07.546Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
-2024-02-10T23:13:07.547Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
-2024-02-10T23:13:07.547Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
-2024-02-10T23:13:07.547Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
-2024-02-10T23:14:00.484Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
-2024-02-10T23:14:00.485Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
-2024-02-10T23:14:00.485Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
-2024-02-10T23:14:00.485Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
-2024-02-10T23:14:00.595Z thumbsup:error Error: Parse error on line 14:
-2024-02-10T23:14:00.595Z thumbsup:error ...each}}{{#endwith}}
-2024-02-10T23:14:00.595Z thumbsup:error ---------------------^
-2024-02-10T23:14:00.595Z thumbsup:error Expecting 'COMMENT', 'CONTENT', 'OPEN_RAW_BLOCK', 'OPEN_BLOCK', 'OPEN_INVERSE', 'OPEN_INVERSE_CHAIN', 'INVERSE', 'OPEN_ENDBLOCK', 'OPEN', 'OPEN_UNESCAPED', 'OPEN_PARTIAL', 'OPEN_PARTIAL_BLOCK', got 'EOF'
-2024-02-10T23:14:00.595Z thumbsup:error     at Parser.parseError (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\handlebars\dist\cjs\handlebars\compiler\parser.js:267:19)
-2024-02-10T23:14:00.595Z thumbsup:error     at Parser.parse (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\handlebars\dist\cjs\handlebars\compiler\parser.js:336:30)
-2024-02-10T23:14:00.595Z thumbsup:error     at parseWithoutProcessing (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\handlebars\dist\cjs\handlebars\compiler\base.js:46:33)
-2024-02-10T23:14:00.595Z thumbsup:error     at HandlebarsEnvironment.parse (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\handlebars\dist\cjs\handlebars\compiler\base.js:52:13)
-2024-02-10T23:14:00.595Z thumbsup:error     at compileInput (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\handlebars\dist\cjs\handlebars\compiler\compiler.js:508:19)
-2024-02-10T23:14:00.595Z thumbsup:error     at Theme.ret [as template] (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\handlebars\dist\cjs\handlebars\compiler\compiler.js:517:18)
-2024-02-10T23:14:00.595Z thumbsup:error     at Theme.render (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\src\website\theme.js:64:27)
-2024-02-10T23:14:00.595Z thumbsup:error     at C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\src\website\website.js:30:26
-2024-02-10T23:14:00.595Z thumbsup:error     at C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\async\dist\async.js:3676:28
-2024-02-10T23:14:00.595Z thumbsup:error     at replenish (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\async\dist\async.js:448:21)
-2024-02-10T23:14:07.650Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
-2024-02-10T23:14:07.651Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
-2024-02-10T23:14:07.651Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
-2024-02-10T23:14:07.651Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
-2024-02-11T04:28:24.575Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
-2024-02-11T04:28:24.576Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
-2024-02-11T04:28:24.576Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
-2024-02-11T04:28:24.576Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-10T23:19:07.187Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-10T23:19:07.188Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-10T23:19:07.188Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-10T23:19:07.188Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-10T23:19:13.773Z thumbsup:error Error: Parse error on line 14:
+2024-02-10T23:19:13.773Z thumbsup:error ...each}}{{#endwith}}
+2024-02-10T23:19:13.773Z thumbsup:error ---------------------^
+2024-02-10T23:19:13.773Z thumbsup:error Expecting 'COMMENT', 'CONTENT', 'OPEN_RAW_BLOCK', 'OPEN_BLOCK', 'OPEN_INVERSE', 'OPEN_INVERSE_CHAIN', 'INVERSE', 'OPEN_ENDBLOCK', 'OPEN', 'OPEN_UNESCAPED', 'OPEN_PARTIAL', 'OPEN_PARTIAL_BLOCK', got 'EOF'
+2024-02-10T23:19:13.773Z thumbsup:error     at Parser.parseError (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\handlebars\dist\cjs\handlebars\compiler\parser.js:267:19)
+2024-02-10T23:19:13.773Z thumbsup:error     at Parser.parse (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\handlebars\dist\cjs\handlebars\compiler\parser.js:336:30)
+2024-02-10T23:19:13.773Z thumbsup:error     at parseWithoutProcessing (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\handlebars\dist\cjs\handlebars\compiler\base.js:46:33)
+2024-02-10T23:19:13.773Z thumbsup:error     at HandlebarsEnvironment.parse (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\handlebars\dist\cjs\handlebars\compiler\base.js:52:13)
+2024-02-10T23:19:13.773Z thumbsup:error     at compileInput (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\handlebars\dist\cjs\handlebars\compiler\compiler.js:508:19)
+2024-02-10T23:19:13.773Z thumbsup:error     at Theme.ret [as template] (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\handlebars\dist\cjs\handlebars\compiler\compiler.js:517:18)
+2024-02-10T23:19:13.773Z thumbsup:error     at Theme.render (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\src\website\theme.js:64:27)
+2024-02-10T23:19:13.773Z thumbsup:error     at C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\src\website\website.js:30:26
+2024-02-10T23:19:13.773Z thumbsup:error     at C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\async\dist\async.js:3676:28
+2024-02-10T23:19:13.773Z thumbsup:error     at replenish (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\async\dist\async.js:448:21)
+2024-02-10T23:29:07.916Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-10T23:29:07.916Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-10T23:29:07.916Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-10T23:29:07.916Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-10T23:29:08.021Z thumbsup:error Error: Cannot find module 'moment'
+2024-02-10T23:29:08.021Z thumbsup:error Require stack:
+2024-02-10T23:29:08.021Z thumbsup:error - C:\Users\Jahuf\Downloads\PhotoArchive-master\PhotoArchive-master\helpers\date.js
+2024-02-10T23:29:08.021Z thumbsup:error - C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\src\website\theme.js
+2024-02-10T23:29:08.021Z thumbsup:error - C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\src\website\website.js
+2024-02-10T23:29:08.021Z thumbsup:error - C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\src\index.js
+2024-02-10T23:29:08.021Z thumbsup:error - C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\bin\thumbsup.js
+2024-02-10T23:29:08.021Z thumbsup:error     at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+2024-02-10T23:29:08.021Z thumbsup:error     at Module._load (node:internal/modules/cjs/loader:985:27)
+2024-02-10T23:29:08.021Z thumbsup:error     at Module.require (node:internal/modules/cjs/loader:1235:19)
+2024-02-10T23:29:08.021Z thumbsup:error     at require (node:internal/modules/helpers:176:18)
+2024-02-10T23:29:08.021Z thumbsup:error     at Object.<anonymous> (C:\Users\Jahuf\Downloads\PhotoArchive-master\PhotoArchive-master\helpers\date.js:1:16)
+2024-02-10T23:29:08.021Z thumbsup:error     at Module._compile (node:internal/modules/cjs/loader:1376:14)
+2024-02-10T23:29:08.021Z thumbsup:error     at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+2024-02-10T23:29:08.021Z thumbsup:error     at Module.load (node:internal/modules/cjs/loader:1207:32)
+2024-02-10T23:29:08.021Z thumbsup:error     at Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-02-10T23:29:08.021Z thumbsup:error     at Module.require (node:internal/modules/cjs/loader:1235:19)
+2024-02-10T23:32:04.966Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-10T23:32:04.966Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-10T23:32:04.966Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-10T23:32:04.966Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-10T23:32:05.071Z thumbsup:error Error: Cannot find module 'moment'
+2024-02-10T23:32:05.071Z thumbsup:error Require stack:
+2024-02-10T23:32:05.071Z thumbsup:error - C:\Users\Jahuf\Downloads\PhotoArchive-master\PhotoArchive-master\helpers\date.js
+2024-02-10T23:32:05.071Z thumbsup:error - C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\src\website\theme.js
+2024-02-10T23:32:05.071Z thumbsup:error - C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\src\website\website.js
+2024-02-10T23:32:05.071Z thumbsup:error - C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\src\index.js
+2024-02-10T23:32:05.071Z thumbsup:error - C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\bin\thumbsup.js
+2024-02-10T23:32:05.071Z thumbsup:error     at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+2024-02-10T23:32:05.071Z thumbsup:error     at Module._load (node:internal/modules/cjs/loader:985:27)
+2024-02-10T23:32:05.071Z thumbsup:error     at Module.require (node:internal/modules/cjs/loader:1235:19)
+2024-02-10T23:32:05.071Z thumbsup:error     at require (node:internal/modules/helpers:176:18)
+2024-02-10T23:32:05.071Z thumbsup:error     at Object.<anonymous> (C:\Users\Jahuf\Downloads\PhotoArchive-master\PhotoArchive-master\helpers\date.js:1:16)
+2024-02-10T23:32:05.071Z thumbsup:error     at Module._compile (node:internal/modules/cjs/loader:1376:14)
+2024-02-10T23:32:05.071Z thumbsup:error     at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+2024-02-10T23:32:05.071Z thumbsup:error     at Module.load (node:internal/modules/cjs/loader:1207:32)
+2024-02-10T23:32:05.071Z thumbsup:error     at Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-02-10T23:32:05.071Z thumbsup:error     at Module.require (node:internal/modules/cjs/loader:1235:19)
+2024-02-10T23:38:06.251Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-10T23:38:06.251Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-10T23:38:06.251Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-10T23:38:06.251Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-10T23:38:06.456Z thumbsup:error Error: The partial content could not be found
+2024-02-10T23:38:06.456Z thumbsup:error     at Object.invokePartial (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\handlebars\dist\cjs\handlebars\runtime.js:332:11)
+2024-02-10T23:38:06.456Z thumbsup:error     at Object.invokePartialWrapper [as invokePartial] (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\handlebars\dist\cjs\handlebars\runtime.js:84:39)
+2024-02-10T23:38:06.456Z thumbsup:error     at Object.eval [as main] (eval at createFunctionContext (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\handlebars\dist\cjs\handlebars\compiler\javascript-compiler.js:262:23), <anonymous>:21:28)
+2024-02-10T23:38:06.456Z thumbsup:error     at main (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\handlebars\dist\cjs\handlebars\runtime.js:208:32)
+2024-02-10T23:38:06.456Z thumbsup:error     at Theme.ret (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\handlebars\dist\cjs\handlebars\runtime.js:212:12)
+2024-02-10T23:38:06.456Z thumbsup:error     at Theme.ret [as template] (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\handlebars\dist\cjs\handlebars\compiler\compiler.js:519:21)
+2024-02-10T23:38:06.456Z thumbsup:error     at Theme.render (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\src\website\theme.js:64:27)
+2024-02-10T23:38:06.456Z thumbsup:error     at C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\src\website\website.js:30:26
+2024-02-10T23:38:06.456Z thumbsup:error     at C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\async\dist\async.js:3676:28
+2024-02-10T23:38:06.456Z thumbsup:error     at replenish (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\async\dist\async.js:448:21)
+2024-02-10T23:42:46.229Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-10T23:42:46.230Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-10T23:42:46.230Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-10T23:42:46.230Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-10T23:42:46.441Z thumbsup:error Error: The partial content could not be found
+2024-02-10T23:42:46.441Z thumbsup:error     at Object.invokePartial (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\handlebars\dist\cjs\handlebars\runtime.js:332:11)
+2024-02-10T23:42:46.441Z thumbsup:error     at Object.invokePartialWrapper [as invokePartial] (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\handlebars\dist\cjs\handlebars\runtime.js:84:39)
+2024-02-10T23:42:46.441Z thumbsup:error     at Object.eval [as main] (eval at createFunctionContext (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\handlebars\dist\cjs\handlebars\compiler\javascript-compiler.js:262:23), <anonymous>:21:28)
+2024-02-10T23:42:46.441Z thumbsup:error     at main (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\handlebars\dist\cjs\handlebars\runtime.js:208:32)
+2024-02-10T23:42:46.441Z thumbsup:error     at Theme.ret (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\handlebars\dist\cjs\handlebars\runtime.js:212:12)
+2024-02-10T23:42:46.441Z thumbsup:error     at Theme.ret [as template] (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\handlebars\dist\cjs\handlebars\compiler\compiler.js:519:21)
+2024-02-10T23:42:46.441Z thumbsup:error     at Theme.render (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\src\website\theme.js:64:27)
+2024-02-10T23:42:46.441Z thumbsup:error     at C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\src\website\website.js:30:26
+2024-02-10T23:42:46.441Z thumbsup:error     at C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\async\dist\async.js:3676:28
+2024-02-10T23:42:46.441Z thumbsup:error     at replenish (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\async\dist\async.js:448:21)
+2024-02-10T23:43:28.658Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-10T23:43:28.659Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-10T23:43:28.659Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-10T23:43:28.659Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-10T23:43:28.764Z thumbsup:error Error: Cannot find module 'moment'
+2024-02-10T23:43:28.764Z thumbsup:error Require stack:
+2024-02-10T23:43:28.764Z thumbsup:error - C:\Users\Jahuf\Downloads\PhotoArchive-master\PhotoArchive-master\helpers\date.js
+2024-02-10T23:43:28.764Z thumbsup:error - C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\src\website\theme.js
+2024-02-10T23:43:28.764Z thumbsup:error - C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\src\website\website.js
+2024-02-10T23:43:28.764Z thumbsup:error - C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\src\index.js
+2024-02-10T23:43:28.764Z thumbsup:error - C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\bin\thumbsup.js
+2024-02-10T23:43:28.764Z thumbsup:error     at Module._resolveFilename (node:internal/modules/cjs/loader:1144:15)
+2024-02-10T23:43:28.764Z thumbsup:error     at Module._load (node:internal/modules/cjs/loader:985:27)
+2024-02-10T23:43:28.764Z thumbsup:error     at Module.require (node:internal/modules/cjs/loader:1235:19)
+2024-02-10T23:43:28.764Z thumbsup:error     at require (node:internal/modules/helpers:176:18)
+2024-02-10T23:43:28.764Z thumbsup:error     at Object.<anonymous> (C:\Users\Jahuf\Downloads\PhotoArchive-master\PhotoArchive-master\helpers\date.js:1:16)
+2024-02-10T23:43:28.764Z thumbsup:error     at Module._compile (node:internal/modules/cjs/loader:1376:14)
+2024-02-10T23:43:28.764Z thumbsup:error     at Module._extensions..js (node:internal/modules/cjs/loader:1435:10)
+2024-02-10T23:43:28.764Z thumbsup:error     at Module.load (node:internal/modules/cjs/loader:1207:32)
+2024-02-10T23:43:28.764Z thumbsup:error     at Module._load (node:internal/modules/cjs/loader:1023:12)
+2024-02-10T23:43:28.764Z thumbsup:error     at Module.require (node:internal/modules/cjs/loader:1235:19)
+2024-02-10T23:50:51.699Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-10T23:50:51.699Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-10T23:50:51.699Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-10T23:50:51.699Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-10T23:50:51.802Z thumbsup:error Error: Invalid theme structure in C:\Users\Jahuf\OneDrive\Desktop
+2024-02-10T23:50:51.802Z thumbsup:error     at Theme.validateStructure (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\src\website\theme.js:56:13)
+2024-02-10T23:50:51.802Z thumbsup:error     at Theme.prepare (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\src\website\theme.js:24:10)
+2024-02-10T23:50:51.802Z thumbsup:error     at C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\src\website\website.js:36:19
+2024-02-10T23:50:51.802Z thumbsup:error     at C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\async\dist\async.js:3676:28
+2024-02-10T23:50:51.802Z thumbsup:error     at replenish (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\async\dist\async.js:448:21)
+2024-02-10T23:50:51.802Z thumbsup:error     at iterateeCallback (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\async\dist\async.js:432:21)
+2024-02-10T23:50:51.802Z thumbsup:error     at C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\async\dist\async.js:329:20
+2024-02-10T23:50:51.802Z thumbsup:error     at C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\async\dist\async.js:3681:17
+2024-02-10T23:50:51.802Z thumbsup:error     at C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\async\dist\async.js:3683:19
+2024-02-10T23:50:51.802Z thumbsup:error     at wrapper (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\async\dist\async.js:273:20)
+2024-02-10T23:51:04.427Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-10T23:51:04.428Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-10T23:51:04.428Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-10T23:51:04.428Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-10T23:51:04.532Z thumbsup:error Error: Invalid theme structure in C:\Users\Jahuf
+2024-02-10T23:51:04.532Z thumbsup:error     at Theme.validateStructure (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\src\website\theme.js:56:13)
+2024-02-10T23:51:04.532Z thumbsup:error     at Theme.prepare (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\src\website\theme.js:24:10)
+2024-02-10T23:51:04.532Z thumbsup:error     at C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\src\website\website.js:36:19
+2024-02-10T23:51:04.532Z thumbsup:error     at C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\async\dist\async.js:3676:28
+2024-02-10T23:51:04.532Z thumbsup:error     at replenish (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\async\dist\async.js:448:21)
+2024-02-10T23:51:04.532Z thumbsup:error     at iterateeCallback (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\async\dist\async.js:432:21)
+2024-02-10T23:51:04.532Z thumbsup:error     at C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\async\dist\async.js:329:20
+2024-02-10T23:51:04.532Z thumbsup:error     at C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\async\dist\async.js:3681:17
+2024-02-10T23:51:04.532Z thumbsup:error     at C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\async\dist\async.js:3683:19
+2024-02-10T23:51:04.532Z thumbsup:error     at wrapper (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\async\dist\async.js:273:20)
+2024-02-10T23:51:20.548Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-10T23:51:20.548Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-10T23:51:20.548Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-10T23:51:20.548Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-10T23:52:44.416Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-10T23:52:44.416Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-10T23:52:44.416Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-10T23:52:44.416Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-10T23:52:56.043Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-10T23:52:56.043Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-10T23:52:56.043Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-10T23:52:56.043Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-10T23:55:58.559Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-10T23:55:58.559Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-10T23:55:58.559Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-10T23:55:58.559Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-10T23:56:53.644Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-10T23:56:53.645Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-10T23:56:53.645Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-10T23:56:53.645Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-10T23:59:30.150Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-10T23:59:30.151Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-10T23:59:30.151Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-10T23:59:30.151Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-10T23:59:59.186Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-10T23:59:59.187Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-10T23:59:59.187Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-10T23:59:59.187Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T00:01:00.141Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T00:01:00.142Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T00:01:00.142Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T00:01:00.142Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T00:03:36.838Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T00:03:36.838Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T00:03:36.838Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T00:03:36.839Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T00:03:53.605Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T00:03:53.605Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T00:03:53.605Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T00:03:53.605Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T00:06:20.042Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T00:06:20.043Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T00:06:20.043Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T00:06:20.043Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T00:08:12.991Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T00:08:12.992Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T00:08:12.992Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T00:08:12.992Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T00:16:13.021Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T00:16:13.022Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T00:16:13.022Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T00:16:13.022Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T00:19:37.645Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T00:19:37.646Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T00:19:37.646Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T00:19:37.646Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T00:23:47.025Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T00:23:47.026Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T00:23:47.026Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T00:23:47.026Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T00:27:13.340Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T00:27:13.341Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T00:27:13.341Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T00:27:13.341Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T00:28:50.466Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T00:28:50.467Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T00:28:50.467Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T00:28:50.467Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T00:30:20.142Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T00:30:20.143Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T00:30:20.143Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T00:30:20.143Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T00:31:58.334Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T00:31:58.335Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T00:31:58.335Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T00:31:58.335Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T00:53:56.843Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T00:53:56.843Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T00:53:56.843Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T00:53:56.843Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T00:54:34.443Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T00:54:34.443Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T00:54:34.444Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T00:54:34.444Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T00:55:18.710Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T00:55:18.710Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T00:55:18.710Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T00:55:18.710Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T00:55:32.467Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T00:55:32.468Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T00:55:32.468Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T00:55:32.468Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T00:55:51.882Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T00:55:51.883Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T00:55:51.883Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T00:55:51.883Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T00:56:11.255Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T00:56:11.255Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T00:56:11.255Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T00:56:11.255Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T00:56:24.277Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T00:56:24.278Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T00:56:24.278Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T00:56:24.278Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T00:56:59.764Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T00:56:59.765Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T00:56:59.765Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T00:56:59.765Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T00:57:13.516Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T00:57:13.517Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T00:57:13.517Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T00:57:13.517Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T00:57:28.177Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T00:57:28.178Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T00:57:28.178Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T00:57:28.178Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T00:58:34.026Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T00:58:34.027Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T00:58:34.027Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T00:58:34.027Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T00:58:54.502Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T00:58:54.503Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T00:58:54.503Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T00:58:54.503Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T01:00:43.121Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T01:00:43.121Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T01:00:43.121Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T01:00:43.121Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T01:01:01.655Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T01:01:01.656Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T01:01:01.656Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T01:01:01.656Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T01:03:44.425Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T01:03:44.426Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T01:03:44.426Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T01:03:44.426Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T01:05:31.113Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T01:05:31.114Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T01:05:31.114Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T01:05:31.114Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T01:06:43.257Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T01:06:43.257Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T01:06:43.258Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T01:06:43.258Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T01:07:20.199Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T01:07:20.200Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T01:07:20.200Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T01:07:20.200Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T01:07:42.935Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T01:07:42.936Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T01:07:42.936Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T01:07:42.936Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T01:07:58.454Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T01:07:58.454Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T01:07:58.454Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T01:07:58.454Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T01:08:31.598Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T01:08:31.599Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T01:08:31.599Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T01:08:31.599Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T01:10:30.943Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T01:10:30.944Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T01:10:30.944Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T01:10:30.944Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T01:11:29.417Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T01:11:29.422Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T01:11:29.422Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T01:11:29.422Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T01:11:48.893Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T01:11:48.894Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T01:11:48.894Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T01:11:48.894Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T01:12:04.312Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T01:12:04.313Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T01:12:04.313Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T01:12:04.313Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T01:12:22.249Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T01:12:22.249Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T01:12:22.249Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T01:12:22.249Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T01:12:33.833Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T01:12:33.833Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T01:12:33.833Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T01:12:33.833Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T01:12:43.389Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T01:12:43.390Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T01:12:43.390Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T01:12:43.390Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T01:13:45.739Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T01:13:45.740Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T01:13:45.740Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T01:13:45.740Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T01:14:15.936Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T01:14:15.936Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T01:14:15.936Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T01:14:15.936Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T01:20:17.796Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T01:20:17.797Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T01:20:17.797Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T01:20:17.797Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T01:29:20.608Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T01:29:20.609Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T01:29:20.609Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T01:29:20.609Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T01:29:20.740Z thumbsup:error variable @background is undefined
+2024-02-11T01:29:53.582Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T01:29:53.582Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T01:29:53.582Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T01:29:53.582Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T01:29:53.713Z thumbsup:error variable @background is undefined
+2024-02-11T01:30:37.006Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T01:30:37.007Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T01:30:37.007Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T01:30:37.007Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T01:30:37.138Z thumbsup:error variable @NavBorderColor is undefined
+2024-02-11T01:31:18.535Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T01:31:18.536Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T01:31:18.536Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T01:31:18.536Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T01:31:54.940Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T01:31:54.940Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T01:31:54.940Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T01:31:54.940Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T01:32:29.930Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T01:32:29.931Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T01:32:29.931Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T01:32:29.931Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T01:34:19.225Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T01:34:19.225Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T01:34:19.225Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T01:34:19.225Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T01:34:19.360Z thumbsup:error variable @NavBorderColor is undefined
+2024-02-11T01:34:40.365Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T01:34:40.365Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T01:34:40.365Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T01:34:40.365Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T01:36:13.506Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T01:36:13.506Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T01:36:13.506Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T01:36:13.506Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T01:37:13.225Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T01:37:13.225Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T01:37:13.225Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T01:37:13.225Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T01:37:13.359Z thumbsup:error variable @NavBorderColor is undefined
+2024-02-11T01:37:24.296Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T01:37:24.297Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T01:37:24.297Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T01:37:24.297Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T01:40:39.949Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T01:40:39.950Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T01:40:39.950Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T01:40:39.950Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T01:40:57.454Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T01:40:57.455Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T01:40:57.455Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T01:40:57.455Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T01:45:38.736Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T01:45:38.736Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T01:45:38.736Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T01:45:38.736Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T01:50:38.496Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T01:50:38.497Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T01:50:38.497Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T01:50:38.497Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T01:52:37.191Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T01:52:37.191Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T01:52:37.191Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T01:52:37.191Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T01:53:50.034Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T01:53:50.034Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T01:53:50.034Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T01:53:50.034Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T01:54:14.444Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T01:54:14.444Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T01:54:14.444Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T01:54:14.444Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T01:54:27.261Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T01:54:27.262Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T01:54:27.262Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T01:54:27.262Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T01:59:40.637Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T01:59:40.638Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T01:59:40.638Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T01:59:40.638Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T02:03:15.929Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T02:03:15.929Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T02:03:15.929Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T02:03:15.929Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T02:05:44.363Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T02:05:44.364Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T02:05:44.364Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T02:05:44.364Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T02:06:36.307Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T02:06:36.308Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T02:06:36.308Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T02:06:36.308Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T02:07:00.729Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T02:07:00.730Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T02:07:00.730Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T02:07:00.730Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T02:08:18.832Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T02:08:18.833Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T02:08:18.833Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T02:08:18.833Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T02:08:43.778Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T02:08:43.778Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T02:08:43.778Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T02:08:43.778Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T02:08:57.892Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T02:08:57.892Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T02:08:57.892Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T02:08:57.892Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T02:10:09.790Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T02:10:09.790Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T02:10:09.790Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T02:10:09.790Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T02:10:47.344Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T02:10:47.345Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T02:10:47.345Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T02:10:47.345Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T02:11:01.874Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T02:11:01.874Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T02:11:01.874Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T02:11:01.874Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T02:11:57.904Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T02:11:57.904Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T02:11:57.905Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T02:11:57.905Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T02:12:28.856Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T02:12:28.857Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T02:12:28.857Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T02:12:28.857Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T02:13:13.531Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T02:13:13.532Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T02:13:13.532Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T02:13:13.532Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T02:21:33.595Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T02:21:33.596Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T02:21:33.596Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T02:21:33.596Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T02:21:48.742Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T02:21:48.742Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T02:21:48.742Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T02:21:48.742Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T02:22:31.139Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T02:22:31.139Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T02:22:31.139Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T02:22:31.139Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T02:23:21.989Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T02:23:21.989Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T02:23:21.989Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T02:23:21.989Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T02:23:38.152Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T02:23:38.153Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T02:23:38.153Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T02:23:38.153Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T02:24:26.567Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T02:24:26.568Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T02:24:26.568Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T02:24:26.568Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T02:30:05.965Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T02:30:05.965Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T02:30:05.965Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T02:30:05.965Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T02:30:27.349Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T02:30:27.350Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T02:30:27.350Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T02:30:27.350Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T02:32:04.907Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T02:32:04.908Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T02:32:04.908Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T02:32:04.908Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T02:32:47.081Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T02:32:47.082Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T02:32:47.082Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T02:32:47.082Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T02:33:05.149Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T02:33:05.150Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T02:33:05.150Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T02:33:05.150Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T02:33:19.086Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T02:33:19.086Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T02:33:19.086Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T02:33:19.086Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T02:34:06.391Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T02:34:06.392Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T02:34:06.392Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T02:34:06.392Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T02:34:24.518Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T02:34:24.518Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T02:34:24.518Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T02:34:24.518Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T02:35:37.229Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T02:35:37.229Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T02:35:37.229Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T02:35:37.229Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T02:36:59.195Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T02:36:59.196Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T02:36:59.196Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T02:36:59.196Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T02:37:46.250Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T02:37:46.251Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T02:37:46.251Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T02:37:46.251Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T02:40:39.322Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T02:40:39.322Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T02:40:39.322Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T02:40:39.322Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T02:41:08.256Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T02:41:08.257Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T02:41:08.257Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T02:41:08.257Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T02:51:42.435Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T02:51:42.436Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T02:51:42.436Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T02:51:42.436Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T02:51:58.236Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T02:51:58.237Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T02:51:58.237Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T02:51:58.237Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T02:52:35.880Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T02:52:35.881Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T02:52:35.881Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T02:52:35.881Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T02:53:45.958Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T02:53:45.958Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T02:53:45.958Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T02:53:45.958Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T02:56:24.916Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T02:56:24.917Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T02:56:24.917Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T02:56:24.917Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T02:56:47.416Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T02:56:47.417Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T02:56:47.417Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T02:56:47.417Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T02:57:49.931Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T02:57:49.931Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T02:57:49.931Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T02:57:49.931Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T02:58:03.475Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T02:58:03.476Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T02:58:03.476Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T02:58:03.476Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T02:59:38.021Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T02:59:38.021Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T02:59:38.021Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T02:59:38.021Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T03:00:04.540Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T03:00:04.540Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T03:00:04.540Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T03:00:04.540Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T03:01:59.478Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T03:01:59.479Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T03:01:59.479Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T03:01:59.479Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T03:02:38.225Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T03:02:38.225Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T03:02:38.225Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T03:02:38.226Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T03:04:02.730Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T03:04:02.731Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T03:04:02.731Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T03:04:02.731Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T03:05:27.849Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T03:05:27.849Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T03:05:27.849Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T03:05:27.850Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T03:05:44.052Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T03:05:44.053Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T03:05:44.053Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T03:05:44.053Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T03:06:05.609Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T03:06:05.610Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T03:06:05.610Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T03:06:05.610Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T03:06:43.517Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T03:06:43.517Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T03:06:43.517Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T03:06:43.517Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T03:08:54.583Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T03:08:54.584Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T03:08:54.584Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T03:08:54.584Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T03:10:11.835Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T03:10:11.835Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T03:10:11.835Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T03:10:11.835Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T03:10:46.351Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T03:10:46.351Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T03:10:46.351Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T03:10:46.351Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T03:10:46.485Z thumbsup:error Unrecognised input
+2024-02-11T03:10:55.322Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T03:10:55.323Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T03:10:55.323Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T03:10:55.323Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T03:11:04.452Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T03:11:04.453Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T03:11:04.453Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T03:11:04.453Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T03:11:12.479Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T03:11:12.480Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T03:11:12.480Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T03:11:12.480Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T03:11:51.643Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T03:11:51.643Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T03:11:51.643Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T03:11:51.644Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T03:12:11.244Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T03:12:11.245Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T03:12:11.245Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T03:12:11.245Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T03:13:13.901Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T03:13:13.901Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T03:13:13.901Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T03:13:13.901Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T03:13:49.885Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T03:13:49.886Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T03:13:49.886Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T03:13:49.886Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T03:14:37.992Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T03:14:37.993Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T03:14:37.993Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T03:14:37.993Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T03:14:49.414Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T03:14:49.415Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T03:14:49.415Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T03:14:49.415Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T03:15:20.083Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T03:15:20.083Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T03:15:20.083Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T03:15:20.083Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T03:15:34.528Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T03:15:34.529Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T03:15:34.529Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T03:15:34.529Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T03:17:33.259Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T03:17:33.259Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T03:17:33.259Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T03:17:33.259Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T03:21:15.562Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T03:21:15.563Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T03:21:15.563Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T03:21:15.563Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T03:21:36.871Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T03:21:36.872Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T03:21:36.872Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T03:21:36.872Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T03:28:24.284Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T03:28:24.284Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T03:28:24.284Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T03:28:24.284Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T03:32:32.695Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T03:32:32.695Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T03:32:32.695Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T03:32:32.695Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T03:33:21.913Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T03:33:21.914Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T03:33:21.914Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T03:33:21.914Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T03:34:26.734Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T03:34:26.734Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T03:34:26.734Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T03:34:26.734Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T03:34:46.865Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T03:34:46.866Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T03:34:46.866Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T03:34:46.866Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T03:35:14.822Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T03:35:14.823Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T03:35:14.823Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T03:35:14.823Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T03:35:34.778Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T03:35:34.779Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T03:35:34.779Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T03:35:34.779Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T03:36:07.874Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T03:36:07.875Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T03:36:07.875Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T03:36:07.875Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T03:38:32.857Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T03:38:32.857Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T03:38:32.857Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T03:38:32.857Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T03:38:57.759Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T03:38:57.759Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T03:38:57.759Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T03:38:57.759Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T03:40:20.516Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T03:40:20.517Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T03:40:20.517Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T03:40:20.517Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T03:41:26.525Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T03:41:26.526Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T03:41:26.526Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T03:41:26.526Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T03:51:36.263Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T03:51:36.263Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T03:51:36.263Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T03:51:36.263Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T03:52:40.572Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T03:52:40.573Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T03:52:40.573Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T03:52:40.573Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T03:54:46.440Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T03:54:46.441Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T03:54:46.441Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T03:54:46.441Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T03:54:55.010Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T03:54:55.011Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T03:54:55.011Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T03:54:55.011Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T03:55:23.290Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T03:55:23.291Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T03:55:23.291Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T03:55:23.291Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T03:56:30.225Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T03:56:30.226Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T03:56:30.226Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T03:56:30.226Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T03:56:43.636Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T03:56:43.636Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T03:56:43.636Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T03:56:43.636Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T03:57:17.463Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T03:57:17.464Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T03:57:17.464Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T03:57:17.464Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T03:57:50.373Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T03:57:50.373Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T03:57:50.374Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T03:57:50.374Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T03:58:04.164Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T03:58:04.165Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T03:58:04.165Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T03:58:04.165Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T03:58:18.856Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T03:58:18.856Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T03:58:18.856Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T03:58:18.856Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T03:58:43.878Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T03:58:43.879Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T03:58:43.879Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T03:58:43.879Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T04:02:40.354Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T04:02:40.354Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T04:02:40.354Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T04:02:40.354Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T04:03:05.615Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T04:03:05.616Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T04:03:05.616Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T04:03:05.616Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T04:06:04.242Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T04:06:04.243Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T04:06:04.243Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T04:06:04.243Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T04:06:12.437Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T04:06:12.437Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T04:06:12.437Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T04:06:12.437Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T04:09:57.292Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T04:09:57.293Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T04:09:57.293Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T04:09:57.293Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T04:11:18.118Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T04:11:18.119Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T04:11:18.119Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T04:11:18.119Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T04:12:50.968Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T04:12:50.969Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T04:12:50.969Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T04:12:50.969Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T04:13:03.933Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T04:13:03.934Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T04:13:03.934Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T04:13:03.934Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T04:13:17.284Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T04:13:17.284Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T04:13:17.284Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T04:13:17.284Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T04:24:22.860Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T04:24:22.861Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T04:24:22.861Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T04:24:22.861Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T04:24:52.175Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T04:24:52.175Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T04:24:52.176Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T04:24:52.176Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T04:26:53.593Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T04:26:53.594Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T04:26:53.594Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T04:26:53.594Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
