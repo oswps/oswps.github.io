@@ -833,3 +833,42 @@
 2024-02-11T04:26:53.594Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
 2024-02-11T04:26:53.594Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
 2024-02-11T04:26:53.594Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T04:33:07.866Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T04:33:07.866Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T04:33:07.866Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T04:33:07.866Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T04:36:49.641Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T04:36:49.642Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T04:36:49.642Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T04:36:49.642Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T04:36:49.751Z thumbsup:error Error: Theme does not exist: C:\Users\Jahuf\https:\github.com\oswps\theme\tree\main\theme
+2024-02-11T04:36:49.751Z thumbsup:error     at Theme.validateStructure (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\src\website\theme.js:51:13)
+2024-02-11T04:36:49.751Z thumbsup:error     at Theme.prepare (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\src\website\theme.js:24:10)
+2024-02-11T04:36:49.751Z thumbsup:error     at C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\src\website\website.js:36:19
+2024-02-11T04:36:49.751Z thumbsup:error     at C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\async\dist\async.js:3676:28
+2024-02-11T04:36:49.751Z thumbsup:error     at replenish (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\async\dist\async.js:448:21)
+2024-02-11T04:36:49.751Z thumbsup:error     at iterateeCallback (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\async\dist\async.js:432:21)
+2024-02-11T04:36:49.751Z thumbsup:error     at C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\async\dist\async.js:329:20
+2024-02-11T04:36:49.751Z thumbsup:error     at C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\async\dist\async.js:3681:17
+2024-02-11T04:36:49.751Z thumbsup:error     at C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\async\dist\async.js:3683:19
+2024-02-11T04:36:49.751Z thumbsup:error     at wrapper (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\async\dist\async.js:273:20)
+2024-02-11T04:37:11.274Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T04:37:11.275Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T04:37:11.275Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T04:37:11.275Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T04:37:11.403Z thumbsup:error 'https:\raw.githubusercontent.com\oswps\theme\main\theme\theme.less' wasn't found. Tried - https:/raw.githubusercontent.com/oswps/theme/main/theme/theme.less,C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\@thumbsup\theme-classic\theme\https:\raw.githubusercontent.com\oswps\theme\main\theme\theme.less
+2024-02-11T14:11:01.527Z thumbsup:warn magick (https://imagemagick.org) is not installed. You will not be able to process HEIC images.
+2024-02-11T14:11:01.528Z thumbsup:warn ffmpeg (https://www.ffmpeg.org) is not installed. You will not be able to process videos.
+2024-02-11T14:11:01.528Z thumbsup:warn gifsicle (http://www.lcdf.org/gifsicle) is not installed. You will not be able to process animated GIFs.
+2024-02-11T14:11:01.528Z thumbsup:warn zip (https://linux.die.net/man/1/zip) is not installed. You will not be able to create ZIP files.
+2024-02-11T14:11:06.359Z thumbsup:error Error: Invalid theme structure in C:\Users\Jahuf\Documents\theme-cards-master\theme
+2024-02-11T14:11:06.359Z thumbsup:error     at Theme.validateStructure (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\src\website\theme.js:56:13)
+2024-02-11T14:11:06.359Z thumbsup:error     at Theme.prepare (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\src\website\theme.js:24:10)
+2024-02-11T14:11:06.359Z thumbsup:error     at C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\src\website\website.js:36:19
+2024-02-11T14:11:06.359Z thumbsup:error     at C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\async\dist\async.js:3676:28
+2024-02-11T14:11:06.359Z thumbsup:error     at replenish (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\async\dist\async.js:448:21)
+2024-02-11T14:11:06.359Z thumbsup:error     at iterateeCallback (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\async\dist\async.js:432:21)
+2024-02-11T14:11:06.359Z thumbsup:error     at C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\async\dist\async.js:329:20
+2024-02-11T14:11:06.359Z thumbsup:error     at C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\async\dist\async.js:3681:17
+2024-02-11T14:11:06.359Z thumbsup:error     at C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\async\dist\async.js:3683:19
+2024-02-11T14:11:06.359Z thumbsup:error     at wrapper (C:\Users\Jahuf\AppData\Roaming\npm\node_modules\thumbsup\node_modules\async\dist\async.js:273:20)
